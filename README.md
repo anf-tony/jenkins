@@ -1,4 +1,3 @@
-# jenkins
-jenkins-css
+# Stylings for Jenkins
 
-This is here cause Git Hub told me to do it...
+This is the styles for the QA box of Jenkins. Bright colors to show you are not on the PROD box.
